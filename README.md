@@ -1,5 +1,9 @@
 # infinite-scroll
 
+Application demonstration using vue infinite loading:
+
+https://peachscript.github.io/vue-infinite-loading/guide/
+
 ## Project setup
 ```
 npm install
